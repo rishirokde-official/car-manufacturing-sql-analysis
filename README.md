@@ -112,4 +112,6 @@ Columns used in this project:
 
 ## 👤 Author
 
-*Add your name and contact/LinkedIn here.*
+"Rishi Rokde"
+Data Analyst|Aspiring Data Engineer 
+
